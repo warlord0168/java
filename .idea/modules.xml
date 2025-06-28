@@ -3,10 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/OddEven.iml" filepath="$PROJECT_DIR$/OddEven.iml" />
 =======
       <module fileurl="file://$PROJECT_DIR$/loops.iml" filepath="$PROJECT_DIR$/loops.iml" />
 >>>>>>> 2aa7e62 (IDE file)
+=======
+      <module fileurl="file://$PROJECT_DIR$/assingment.iml" filepath="$PROJECT_DIR$/assingment.iml" />
+>>>>>>> 47f8ec5 (java)
     </modules>
   </component>
 </project>
