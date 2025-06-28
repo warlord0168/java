@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/OddEven.iml" filepath="$PROJECT_DIR$/OddEven.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/loops.iml" filepath="$PROJECT_DIR$/loops.iml" />
+>>>>>>> 2aa7e62 (IDE file)
     </modules>
   </component>
 </project>
